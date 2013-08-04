@@ -1,0 +1,16 @@
+{
+    "name": "garyburge/EaselJS",
+    "description": "Fork of CreateJS/EaselJS, adding package.json and composer.json",
+    "keywords": ["yii","module","cms","image"],
+    "homepage": "https://github.com/garyburge/EaselJS",
+    "type": "PHP library",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "CreateJS.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.0"
+    }
+}

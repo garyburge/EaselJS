@@ -1,0 +1,14 @@
+{
+    "name": "EaselJS",
+    "description": "Fork of CreateJS/EaselJS, adding package.json and composer.json",
+    "author": "CreateJS.com",
+    "contributors": [
+        {
+            "name": "CreateJS.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/garyburge/EaselJS.git"
+    }
+}
